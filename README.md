@@ -11,7 +11,7 @@
 ---
 
 ## 📘 资源一｜Resource 1  
-**冯正斌《英美文学与翻译理论研究》（2014，九州出版社）**  
+**冯正斌《英美文学发展与翻译理论研究》（2014，九州出版社）**  
 📎 链接：  
 https://zenodo.org/records/15226869  
 📌 DOI: 10.5281/zenodo.15226869
@@ -19,7 +19,7 @@ https://zenodo.org/records/15226869
 ---
 
 ## 📁 资源二｜Resource 2  
-**冯正斌《英美文学与翻译理论研究》（2014，九州出版社）**  
+**冯正斌《英美文学发展与翻译理论研究》（2014，九州出版社）**  
 📎 Archive.org 页面：  
 https://archive.org/details/feng-zhengbin-studies-on-british-and-american-lit-and-translation-theory-jiuzhou-press-2014
 
