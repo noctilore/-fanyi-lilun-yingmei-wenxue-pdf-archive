@@ -2,6 +2,14 @@
 
 ---
 
+## 🔍 关键词（Keywords）
+
+**中文关键词**：冯正斌，翻译学，翻译理论，英美文学，PDF下载，外语教学资料，文献索引，archive.org，zenodo.org，翻译学资料，学术共享平台，doi:10.5281/zenodo.15226869  
+
+**English keywords**: Feng Zhengbin, translation studies, translation theory, British literature, American literature, PDF download, open access, literary archive, academic resource, literary studies，doi:10.5281/zenodo.15226869
+
+---
+
 ## 📘 资源一｜Resource 1  
 **冯正斌《英美文学与翻译理论研究》（2014，九州出版社）**  
 📎 链接：  
@@ -20,14 +28,6 @@ https://archive.org/details/feng-zhengbin-studies-on-british-and-american-lit-an
 ## 🔗 引用建议｜Citation
 
 Feng Zhengbin (2014). *Studies on British and American Literature and Translation Theory*. Jiuzhou Press.
-
----
-
-## 🔍 关键词（Keywords）
-
-**中文关键词**：冯正斌，翻译学，翻译理论，英美文学，PDF下载，外语教学资料，文献索引，archive.org，zenodo.org，翻译学资料，学术共享平台  
-
-**English keywords**: Feng Zhengbin, translation studies, translation theory, British literature, American literature, PDF download, open access, literary archive, academic resource, literary studies
 
 ---
 
